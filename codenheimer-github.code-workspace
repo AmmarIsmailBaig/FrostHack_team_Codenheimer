@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../PathFinder - Copy/sample_depth_maps"
+		},
+		{
+			"path": "../../PathFinder - Copy/my_db"
+		},
+		{
+			"path": "../../PathFinder - Copy/ElevenLabs"
+		},
+		{
+			"path": "../../PathFinder - Copy/.vscode"
+		},
+		{
+			"path": "../../PathFinder - Copy/__pycache__"
+		},
+		{
+			"path": "../../PathFinder/Midas"
+		}
+	],
+	"settings": {}
+}
